@@ -1,0 +1,43 @@
+1.Characteristics of big data:
+                         * Big data could be found in three forms:
+
+                           Structured
+                           Unstructured
+                           Semi-structured
+
+                         *3 v's of big data
+                          =volume-big data process on large volume of data that cannot be 
+                                 in a single existing node
+                          =variety-big data generally is a large sum of heterogeneous data which 
+                                  can be structured, unstructured or semi structured
+                                  structured data such as tables,it is mostly unstructured data such 
+                                  as audio,video,ect.
+                          =velocity-it refers to the speed at which the data is generated 
+                                    from the source and there is a necessity to deals with such type 
+                                    the data flow without any lag.
+                          =varacity –it refers to the consistency and trustworthyness of data interms of accuracy.
+                          =value -it refers to the value that the data could yield.
+
+=====================================================================================================================
+
+
+2. Difference between scale-out versus scale-up:
+
+
+    *scaling up:when there is a shortage of resources scaling up is empowerin a single node
+                with additional resources such as by enhancing ram or upgrading memory storage.
+    
+    *Scaling out:the process of sharing the work load among a number of nodes in a cluster inorder to
+                 attain max effiency and to manage device failure threats.
+
+=======================================================================================================================
+
+3.Solutions to handle big data:there are a number of tools been developed to handle bigdata
+the following are some of them
+*hadoop
+*oracle
+*gfs
+*spark
+
+
+        
